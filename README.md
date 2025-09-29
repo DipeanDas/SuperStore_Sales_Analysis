@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard (Tableau)
+# 📊 Superstore Sales Analysis Dashboard
 
 ## 📝 Overview
 This project explores the **Superstore** dataset using an interactive Tableau dashboard.  
